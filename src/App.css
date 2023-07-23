@@ -1,0 +1,36 @@
+.heading {
+  text-align: center;
+  color: white;
+  padding-top: 100px;
+  padding-bottom: 80px;
+  font-size: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.form {
+  height: 500px;
+  background: url("../public/image/bgimage.png");
+  background-size: cover;
+  text-align: center;
+}
+.input {
+  height: 30px;
+  width: 400px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 0.5rem !important;
+  flex: 0 0 100%;
+  max-width: 100%;
+  position: relative;
+  border: 2px solid white;
+}
+.button {
+  height: 40px;
+  width: 150px;
+  background-color: blue;
+  color: white;
+  font-size: 1.25rem;
+  padding: o.5rem 1 rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+}
